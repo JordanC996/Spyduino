@@ -17,7 +17,7 @@ build an image from dockerfile
 
 run the image
 
-`docker container run <id-image>` 
+`docker container run -it <id-image>` 
 
 run netcat command
 
