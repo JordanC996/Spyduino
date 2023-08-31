@@ -5,6 +5,15 @@ An example of a rubber ducky with Arduino Leonardo
 
 ![immagine](./media/Cattura.PNG)
 
+
+
+The Arduino Leonardo has been loaded with a malicious program. Once the board is inserted into the target system, it is recognized as an HID and performs a malicious script. 
+The script performs the downloading and execution of a malicious file from the attacker's server, allowing him to obtain a root shell of the victim.
+
+
+
+
+
 ## install
 
 ``` git clone https://github.com/JordanC996/Spyduino.git ```
