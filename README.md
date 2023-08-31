@@ -6,6 +6,6 @@ An example of a rubber ducky with Arduino Leonardo
 ![immagine](./media/Cattura.PNG)
 
 ## install
-` git clone `
+` git clone https://github.com/JordanC996/Spyduino.git `
 
 
